@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ReferralCoin
+Comment=ReferralCoin P2P Cryptocurrency
+Comment[fr]=ReferralCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ReferralCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/ReferralCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/ReferralCoin;
+Categories=Office;

@@ -1,0 +1,2 @@
+debian/bin/ReferralCoind usr/bin
+src/ReferralCoind usr/lib/ReferralCoin
